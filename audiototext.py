@@ -1,5 +1,4 @@
 import speech_recognition as sr
-from translate import Translator
 
 arquivo="audio.wav"
 
