@@ -7,5 +7,4 @@ pip install SpeechRecognition
 
 pip install pyaudio
 
-pip install pyst2
-
+pip install translate
